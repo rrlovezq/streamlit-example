@@ -8,7 +8,7 @@
 
 # Streamlit_Bk3_Ch1_02.py
 
-from mpmath import mp
+import mpmath as mp
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
